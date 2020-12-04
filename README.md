@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [CardinalKit](https://cardinalkit.org), an open-source framework for building digital health applications.
 - 🔬 I'm also part of a research project seeking to optimize fixed function hardware using machine learning.
-- 🌱 This quarter, I’m taking courses on *algorithm analysis*, *digital system design*, and *matrix theory*.
+- 🌱 This quarter, I’m taking courses on *signals and systems*, *circuit design*, and *probability theory*.
 - 🤔 My academic interests are primarily systems engineering, math, and political science/philosophy.
 - 📫 Reach me at [vnshenoy@stanford.edu](mailto:vnshenoy@stanford.edu)!
 
