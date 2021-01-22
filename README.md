@@ -1,4 +1,5 @@
 ![Alt Text](https://media2.vault.com/18307/tech_interview_hh.jpg)
+If you haven't seen [this gem of a video](https://www.youtube.com/watch?v=y8OnoxKotPQ), you're welcome :)
 
 Shoot me a message at vnshenoy [at] stanford.edu
 
